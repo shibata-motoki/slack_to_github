@@ -1,0 +1,14 @@
+{
+  "reviewers": [
+    "shibata-motoki",
+    "M-Sh1bata"
+  ],
+  "numApprovers": 2,
+  "slackUsers": {
+    "shibata-motoki": "m-shibata",
+    "M-Sh1bata": "here"
+  },
+  "message": {
+    "requestReview": "レビューお願いします。"
+}
+}

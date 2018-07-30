@@ -1,0 +1,13 @@
+{
+  "reviewers": [ // レビュアー一覧（GitHubのユーザー名）
+    "shibata-motoki",
+    "M-Sh1bata"
+  ],
+  "numApprovers": 2, // 必要なレビュアー数
+  "slackUsers": { // GitHubユーザー名とSlackユーザー名を対応させる（キー：GitHubユーザー名、バリュー：Slackユーザー名）
+    "shibata-motoki": "m-shibata",
+    "M-Sh1bata": "here"
+  },
+  "message": { // Slackに通知する際に付与するコメント
+    "requestReview": "レビューお願いします。",
+}
